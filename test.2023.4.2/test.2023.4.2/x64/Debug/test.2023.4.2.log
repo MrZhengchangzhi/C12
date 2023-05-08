@@ -1,0 +1,7 @@
+﻿  game2.c
+E:\VS\VS 项目\test.2023.4.2\test.2023.4.2\game2.c(38,11): warning C4013: “rand”未定义；假设外部返回 int
+  test.c
+E:\VS\VS 项目\test.2023.4.2\test.2023.4.2\test.c(17,2): warning C4013: “srand”未定义；假设外部返回 int
+E:\VS\VS 项目\test.2023.4.2\test.2023.4.2\test.c(23,2): warning C4013: “Loard_mine”未定义；假设外部返回 int
+  正在生成代码...
+  test.2023.4.2.vcxproj -> E:\VS\VS 项目\test.2023.4.2\x64\Debug\test.2023.4.2.exe
